@@ -1,4 +1,4 @@
-# dummy_portfolio_website
+# Dummy_Portfolio_Website
 This is a personal portfolio website built using HTML, CSS, and JavaScript. It's a dummy version created for practice and learning purposes.
 
 This is a responsive and interactive personal portfolio website created using HTML, CSS, and JavaScript. It serves as a dummy project to showcase my frontend development skills, and includes sections that highlight my background, skills, work experience, and contact details.
